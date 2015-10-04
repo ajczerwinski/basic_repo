@@ -1,7 +1,7 @@
 #wrapper {
 	background-color: gray;
 	width: 600px;
-	height: 800px;
+	height: 880px;
 	position: absolute;
 }
 #repo {
@@ -11,4 +11,8 @@
 #repo img {
 	width: 400px;
 	height: 300px;
+}
+p {
+	color: white;
+	font-family: cursive;
 }
