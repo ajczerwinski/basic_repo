@@ -1,0 +1,14 @@
+#wrapper {
+	background-color: gray;
+	width: 600px;
+	height: 800px;
+	position: absolute;
+}
+#repo {
+	margin-top: 40px;
+	margin-left: 40px;
+}
+#repo img {
+	width: 400px;
+	height: 300px;
+}
